@@ -1,0 +1,6 @@
+select * from nhom8.taikhoan;
+
+
+INSERT INTO NHOM8.TAIKHOAN (USERID, USERNAME, PASSWORD, EMAIL, HOTEN, MAPHONGBAN, CHUC_VU, DIENTHOAI, GIOITINH) 
+VALUES ('U021', 'phucle2', '123', 'phucle2@company.com', N'Lê Phúc', 'PB001', 'USER', '0922231122', N'Nam');
+COMMIT;

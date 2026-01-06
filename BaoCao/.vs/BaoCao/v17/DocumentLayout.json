@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\loginhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\loginhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\loginhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\loginhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\supadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\supadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\supadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\supadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\form_capnhattaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\form_capnhattaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\form_capnhattaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\form_capnhattaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\homeadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\khoiphuctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\khoiphuctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\khoiphuctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\khoiphuctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\khoiphuctaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\khoiphuctaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\dangnhaporcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\dangnhaporcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\dangnhaporcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\dangnhaporcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\baocao\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|f:\\nh\u00F3m8_b\u00E1oc\u00E1otu\u1EA7n_5\\baocao\\baocao\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4BC454-3941-4A4A-96B4-188D65089779}|BaoCao\\Nhom8.csproj|solutionrelative:baocao\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Home.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Home.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Home.cs",
+              "RelativeToolTip": "BaoCao\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T02:54:07.804Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DataBase.cs",
+              "RelativeDocumentMoniker": "BaoCao\\DataBase.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DataBase.cs",
+              "RelativeToolTip": "BaoCao\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:42:21.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupAdmin.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\SupAdmin.cs",
+              "RelativeDocumentMoniker": "BaoCao\\SupAdmin.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\SupAdmin.cs [Design]",
+              "RelativeToolTip": "BaoCao\\SupAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:36:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupAdmin.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\SupAdmin.cs",
+              "RelativeDocumentMoniker": "BaoCao\\SupAdmin.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\SupAdmin.cs",
+              "RelativeToolTip": "BaoCao\\SupAdmin.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAqwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:49:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginHistoryForm.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\LoginHistoryForm.cs",
+              "RelativeDocumentMoniker": "BaoCao\\LoginHistoryForm.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\LoginHistoryForm.cs",
+              "RelativeToolTip": "BaoCao\\LoginHistoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:12:42.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Program.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Program.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Program.cs",
+              "RelativeToolTip": "BaoCao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:44:36.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\ChatServer.cs",
+              "RelativeDocumentMoniker": "BaoCao\\ChatServer.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\ChatServer.cs",
+              "RelativeToolTip": "BaoCao\\ChatServer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwFoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:11:21.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginHistoryForm.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\LoginHistoryForm.cs",
+              "RelativeDocumentMoniker": "BaoCao\\LoginHistoryForm.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\LoginHistoryForm.cs [Design]",
+              "RelativeToolTip": "BaoCao\\LoginHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:41:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Audit.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Audit.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Audit.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Audit.cs [Design]",
+              "RelativeToolTip": "BaoCao\\Audit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:16:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaHoa.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\MaHoa.cs",
+              "RelativeDocumentMoniker": "BaoCao\\MaHoa.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\MaHoa.cs",
+              "RelativeToolTip": "BaoCao\\MaHoa.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:53:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Audit.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Audit.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Audit.cs",
+              "RelativeToolTip": "BaoCao\\Audit.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:43:43.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_CapNhatTaiKhoan.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Form_CapNhatTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Form_CapNhatTaiKhoan.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Form_CapNhatTaiKhoan.cs",
+              "RelativeToolTip": "BaoCao\\Form_CapNhatTaiKhoan.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwJoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:28:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeADMIN.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\HomeADMIN.cs",
+              "RelativeDocumentMoniker": "BaoCao\\HomeADMIN.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\HomeADMIN.cs",
+              "RelativeToolTip": "BaoCao\\HomeADMIN.cs",
+              "ViewState": "AgIAACICAAAAAAAAAAAmwFQCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:32:09.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeADMIN.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\HomeADMIN.cs",
+              "RelativeDocumentMoniker": "BaoCao\\HomeADMIN.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\HomeADMIN.cs [Design]",
+              "RelativeToolTip": "BaoCao\\HomeADMIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:20:17.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_CapNhatTaiKhoan.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Form_CapNhatTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Form_CapNhatTaiKhoan.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Form_CapNhatTaiKhoan.cs [Design]",
+              "RelativeToolTip": "BaoCao\\Form_CapNhatTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:42:46.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Home.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Home.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Home.cs [Design]",
+              "RelativeToolTip": "BaoCao\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:20:14.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KhoiPhucTaiKhoan.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\KhoiPhucTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BaoCao\\KhoiPhucTaiKhoan.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\KhoiPhucTaiKhoan.cs",
+              "RelativeToolTip": "BaoCao\\KhoiPhucTaiKhoan.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawEIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:31:59.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KhoiPhucTaiKhoan.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\KhoiPhucTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BaoCao\\KhoiPhucTaiKhoan.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\KhoiPhucTaiKhoan.cs [Design]",
+              "RelativeToolTip": "BaoCao\\KhoiPhucTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:31:54.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhoiPhucTaiKhoan.Designer.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\KhoiPhucTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "BaoCao\\KhoiPhucTaiKhoan.Designer.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\KhoiPhucTaiKhoan.Designer.cs",
+              "RelativeToolTip": "BaoCao\\KhoiPhucTaiKhoan.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwFAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:32:20.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dangnhaporcl.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Dangnhaporcl.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Dangnhaporcl.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Dangnhaporcl.cs",
+              "RelativeToolTip": "BaoCao\\Dangnhaporcl.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:46:54.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dangnhaporcl.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Dangnhaporcl.cs",
+              "RelativeDocumentMoniker": "BaoCao\\Dangnhaporcl.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\Dangnhaporcl.cs [Design]",
+              "RelativeToolTip": "BaoCao\\Dangnhaporcl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:46:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DangNhap.cs",
+              "RelativeDocumentMoniker": "BaoCao\\DangNhap.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DangNhap.cs",
+              "RelativeToolTip": "BaoCao\\DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:12:12.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DangKy.cs",
+              "RelativeDocumentMoniker": "BaoCao\\DangKy.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DangKy.cs",
+              "RelativeToolTip": "BaoCao\\DangKy.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAiwNgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:35:50.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DangNhap.cs",
+              "RelativeDocumentMoniker": "BaoCao\\DangNhap.cs",
+              "ToolTip": "F:\\Nh\u00F3m8_B\u00E1oC\u00E1oTu\u1EA7n_5\\BaoCao\\BaoCao\\DangNhap.cs [Design]",
+              "RelativeToolTip": "BaoCao\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:44:12.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
